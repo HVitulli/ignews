@@ -26,6 +26,4 @@ There are three pages: Home, Posts and Posts/news. We can yet subscribe with the
 
 ![image](https://user-images.githubusercontent.com/32073399/116157929-2f29c700-a6c4-11eb-8dd8-94b1357d03ca.png)
 
-To run this app, after you have downloaded this repository, you must install all dependencies with the command yarn install. Then run the app with developer mode _yarn dev_.
-
 
