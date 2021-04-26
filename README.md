@@ -2,7 +2,7 @@
 
 This web app is a React News plataform created at Ignite course from Rocketseat.
 
-There are three pages: Home, Posts and Posts/news. We can yet subscribe with the stripe service, so when you click at the subscribe button, you'll be redirected to the checkout stripe page. If you want to try a subscribe teste just use the card _4242 4242 4242 4242_ and a random adress.
+There are three pages: Home, Posts and Posts/news. We can yet subscribe with the stripe service, so when you click at the subscribe button, you'll be redirected to the checkout stripe page. If you want to try a subscribe teste just use the number of credit card _4242 4242 4242 4242_ and a random adress.
 
 
   HOME:
