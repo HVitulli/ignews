@@ -18,8 +18,13 @@ There are three pages: Home, Posts and Posts/news. We can yet subscribe with the
 
 
   POSTS/NEWS:
-  - If we already are subscribed, then you have total access to the post
+  - If you're already subscribed, then you have total access to the post
 
 ![image](https://user-images.githubusercontent.com/32073399/116154978-d7895c80-a6bf-11eb-8bbc-2b1de1a9f884.png)
+
+  - Else you'll have just a preview page post
+
+![image](https://user-images.githubusercontent.com/32073399/116157929-2f29c700-a6c4-11eb-8dd8-94b1357d03ca.png)
+
 
 
